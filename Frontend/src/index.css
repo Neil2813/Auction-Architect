@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swaphttps://fonts.googleapis.com/css2?family=Cantora+One&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap");
+
+@layer base {
+  :root {
+    /* BLUE PALETTE – for backgrounds */
+    --blue-50:  #E9EEFB;
+    --blue-100: #C3D0F4;
+    --blue-200: #9CB1ED;
+    --blue-300: #7593E6;
+    --blue-400: #4E75DF;
+    --blue-500: #2856D7;
+    --blue-600: #2047B1;
+    --blue-700: #19388A;
+    --blue-800: #122863;
+    --blue-900: #0B183C;
+    --blue-950: #040916;
+
+    /* YELLOW PALETTE – for text / highlights */
+    --yellow-50:  #FBF6E9;
+    --yellow-100: #F4E7C3;
+    --yellow-200: #EDD79C;
+    --yellow-300: #E6C875;
+    --yellow-400: #DFB84E;
+    --yellow-500: #D7A928;
+    --yellow-600: #B18A20;
+    --yellow-700: #8A6C19;
+    --yellow-800: #634E12;
+    --yellow-900: #3C2F0B;
+    --yellow-950: #161104;
+
+    /* SINGLE THEME: BLUE BACKGROUND + YELLOW TEXT */
+    --background: var(--blue-950);
+    --foreground: var(--yellow-50);
+
+    --card: var(--blue-900);
+    --card-foreground: var(--yellow-50);
+
+    --popover: var(--blue-900);
+    --popover-foreground: var(--yellow-50);
+
+    --primary: var(--yellow-400);
+    --primary-foreground: var(--blue-950);
+
+    --secondary: var(--yellow-600);
+    --secondary-foreground: var(--blue-950);
+
+    --muted: var(--blue-800);
+    --muted-foreground: var(--yellow-200);
+
+    --accent: var(--yellow-500);
+    --accent-foreground: var(--blue-950);
+
+    --destructive: #ff4d4d;
+    --destructive-foreground: var(--yellow-50);
+
+    --border: var(--blue-800);
+    --input: var(--blue-800);
+    --ring: var(--yellow-400);
+
+    --radius: 0.5rem;
+
+    --sidebar-background: var(--blue-900);
+    --sidebar-foreground: var(--yellow-50);
+    --sidebar-primary: var(--yellow-400);
+    --sidebar-primary-foreground: var(--blue-950);
+    --sidebar-accent: var(--blue-800);
+    --sidebar-accent-foreground: var(--yellow-50);
+    --sidebar-border: var(--blue-800);
+    --sidebar-ring: var(--yellow-400);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-body;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-heading;
+  }
+}

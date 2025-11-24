@@ -1,0 +1,861 @@
+sr_no,name,country,role,auction_status,base_price,final_price,sold_to,year
+27,Rohan Kunnummal,India,Batter,UNSOLD,2000000,0,,2023
+60,Dawid Malan,England,Batter,UNSOLD,15000000,0,,2023
+151,Ekant Sen,India,Batter,UNSOLD,2000000,0,,2023
+76,Will Smeed,England,Batter,UNSOLD,2000000,0,,2023
+31,Priyam Garg,India,Batter,UNSOLD,2000000,0,,2023
+24,LR Chethan,India,Batter,UNSOLD,2000000,0,,2023
+135,Rassie van der Dussen,South Africa,Batter,UNSOLD,20000000,0,,2023
+109,Priyank Panchal,India,Batter,UNSOLD,2000000,0,,2023
+110,Sanjay Raghunath,India,Batter,UNSOLD,2000000,0,,2023
+29,Himmat Singh,India,Batter,UNSOLD,2000000,0,,2023
+26,Shubham Khajuria,India,Batter,UNSOLD,2000000,0,,2023
+75,Harpreet Singh Bhatia,India,Batter,SOLD,2000000,4000000,PBKS,2023
+8,Philip Salt,England,Batter,SOLD,20000000,20000000,DC,2023
+23,Kane Williamson,New Zealand,Batter,SOLD,20000000,20000000,GT,2023
+56,Manish Pandey,India,Batter,SOLD,10000000,24000000,DC,2023
+1,Harry Brook,England,Batter,SOLD,15000000,132500000,SRH,2023
+134,Mandeep Singh,India,Batter,SOLD,5000000,5000000,KKR,2023
+22,Ajinkya Rahane,India,Batter,SOLD,5000000,5000000,CSK,2023
+28,Shaik Rasheed,India,Batter,SOLD,2000000,2000000,CSK,2023
+130,Anmolpreet Singh,India,Batter,SOLD,2000000,2000000,SRH,2023
+148,Joe Root,England,Batter,SOLD,10000000,10000000,RR,2023
+126,Rilee Rossouw,South Africa,Batter,SOLD,20000000,46000000,DC,2023
+21,Mayank Agarwal,India,Batter,SOLD,10000000,82500000,SRH,2023
+50,Chintal Gandhi,India,Bowler,UNSOLD,2000000,0,,2023
+68,Sandeep Sharma,India,Bowler,UNSOLD,5000000,0,,2023
+69,Taskin Ahmed,Bangladesh,Bowler,UNSOLD,5000000,0,,2023
+94,Richard Gleeson,England,Bowler,UNSOLD,5000000,0,,2023
+52,Shreyas Gopal,India,Bowler,UNSOLD,2000000,0,,2023
+141,Dilshan Madushanka,Sri Lanka,Bowler,UNSOLD,5000000,0,,2023
+67,Riley Meredith,Australia,Bowler,UNSOLD,15000000,0,,2023
+118,Trilok Nag,India,Bowler,UNSOLD,2000000,0,,2023
+142,Luke Wood,England,Bowler,UNSOLD,10000000,0,,2023
+11,Adam Milne,New Zealand,Bowler,UNSOLD,20000000,0,,2023
+45,Mujtaba Yousuf,India,Bowler,UNSOLD,2000000,0,,2023
+14,Tabraiz Shamsi,South Africa,Bowler,UNSOLD,10000000,0,,2023
+9,Chris Jordan,England,Bowler,UNSOLD,20000000,0,,2023
+117,Shubham Kapse,India,Bowler,UNSOLD,2000000,0,,2023
+15,Mujeeb Ur Rahman,Afghanistan,Bowler,UNSOLD,10000000,0,,2023
+70,Dushmantha Chameera,Sri Lanka,Bowler,UNSOLD,5000000,0,,2023
+90,Tejas Baroka,India,Bowler,UNSOLD,2000000,0,,2023
+51,Izharulhaq Naveed,Afghanistan,Bowler,UNSOLD,2000000,0,,2023
+53,Sudhesan Midhun,India,Bowler,UNSOLD,2000000,0,,2023
+46,Lance Morris,Australia,Bowler,UNSOLD,3000000,0,,2023
+71,Blessing Muzarabani,Zimbabwe,Bowler,UNSOLD,5000000,0,,2023
+89,Paul van Meekeren,Netherlands,Bowler,UNSOLD,2000000,0,,2023
+139,Akash Singh,India,Bowler,UNSOLD,2000000,0,,2023
+91,Yuvraj Chudasama,India,Bowler,UNSOLD,2000000,0,,2023
+13,Adil Rashid,England,Bowler,SOLD,20000000,20000000,SRH,2023
+95,Joshua Little,Ireland,Bowler,SOLD,5000000,44000000,GT,2023
+48,Shivam Mavi,India,Bowler,SOLD,4000000,60000000,GT,2023
+44,Yash Thakur,India,Bowler,SOLD,2000000,4500000,LSG,2023
+61,Romario Shepherd,West Indies,Bowler,SOLD,5000000,5000000,LSG,2023
+74,Piyush Chawla,India,Bowler,SOLD,5000000,5000000,MI,2023
+96,Mohit Sharma,India,Bowler,SOLD,5000000,5000000,GT,2023
+73,Amit Mishra,India,Bowler,SOLD,5000000,5000000,LSG,2023
+17,Mayank Markande,India,Bowler,SOLD,5000000,5000000,SRH,2023
+19,Ishant Sharma,India,Bowler,SOLD,5000000,5000000,DC,2023
+18,Jaydev Unadkat,India,Bowler,SOLD,5000000,5000000,LSG,2023
+92,Suyash Sharma,India,Bowler,SOLD,2000000,2000000,KKR,2023
+133,Murugan Ashwin,India,Bowler,SOLD,2000000,2000000,RR,2023
+144,Raghav Goyal,India,Bowler,SOLD,2000000,2000000,MI,2023
+54,Himanshu Sharma,India,Bowler,SOLD,2000000,2000000,RCB,2023
+112,Kulwant Khejroliya,India,Bowler,SOLD,2000000,2000000,KKR,2023
+87,Vidhwath Kaverappa,India,Bowler,SOLD,2000000,2000000,PBKS,2023
+105,Avinash Singh,India,Bowler,SOLD,2000000,6000000,RCB,2023
+145,Akeal Hosein,West Indies,Bowler,SOLD,10000000,10000000,SRH,2023
+49,Mukesh Kumar,India,Bowler,SOLD,2000000,55000000,DC,2023
+132,KM Asif,India,Bowler,SOLD,3000000,3000000,RR,2023
+88,Rajan Kumar,India,Bowler,SOLD,2000000,7000000,RCB,2023
+12,Jhye Richardson,Australia,Bowler,SOLD,15000000,15000000,MI,2023
+129,Adam Zampa,Australia,Bowler,SOLD,15000000,15000000,RR,2023
+10,Reece Topley,England,Bowler,SOLD,7500000,19000000,RCB,2023
+20,Devdutt Padikkal, India,Batter ,TRADED,0,0,LSG,2024
+141,Prithvi Shaw, India,Batter ,RETAINED,0,0,DC,2024
+236,Colin Munro, New Zealand,Batter ,UNSOLD,15000000,0,,2024
+115,Anmolpreet Singh, India,Batter ,RETAINED,0,0,SRH,2024
+87,Virat Kohli, India,Batter ,RETAINED,0,0,RCB,2024
+156,David Miller, South Africa,Batter ,RETAINED,0,0,GT,2024
+283,Steve Smith, Australia,Batter ,UNSOLD,20000000,0,,2024
+37,Dewald Brevis, South Africa,Batter ,RETAINED,0,0,MI,2024
+165,Shreyas Iyer, India,Batter ,RETAINED,0,0,KKR,2024
+83,Shimron Hetmyer, West Indies,Batter ,RETAINED,0,0,RR,2024
+280,Karun Nair, India,Batter ,UNSOLD,5000000,0,,2024
+167,Rinku Singh, India,Batter ,RETAINED,0,0,KKR,2024
+77,Riyan Parag, India,Batter ,RETAINED,0,0,RR,2024
+110,Rahul Tripathi, India,Batter ,RETAINED,0,0,SRH,2024
+296,Amandeep Khare, India,Batter ,UNSOLD,2000000,0,,2024
+121,Ruturaj Gaikwad, India,Batter ,RETAINED,0,0,CSK,2024
+45,Nehal Wadhera, India,Batter ,RETAINED,0,0,MI,2024
+255,Himmat Singh, India,Batter ,UNSOLD,2000000,0,,2024
+205,Manan Vohra, India,Batter ,UNSOLD,2000000,0,,2024
+238,Rassie van der Dussen, South Africa,Batter ,UNSOLD,20000000,0,,2024
+257,Sumeet Verma, India,Batter ,UNSOLD,2000000,0,,2024
+36,Rohit Sharma, India,Batter ,RETAINED,0,0,MI,2024
+89,Rajat Patidar, India,Batter ,RETAINED,0,0,RCB,2024
+142,Yash Dhull, India,Batter ,RETAINED,0,0,DC,2024
+204,Priyansh Arya, India,Batter ,UNSOLD,2000000,0,,2024
+38,Suryakumar Yadav, India,Batter ,RETAINED,0,0,MI,2024
+106,Ajinkya Rahane, India,Batter ,RETAINED,0,0,CSK,2024
+108,Abdul Samad, India,Batter ,RETAINED,0,0,SRH,2024
+157,Sai Sudharsan, India,Batter ,RETAINED,0,0,GT,2024
+74,Yashasvi Jaiswal, India,Batter ,RETAINED,0,0,RR,2024
+155,Kane Williamson, New Zealand,Batter ,RETAINED,0,0,GT,2024
+25,Ayush Badoni, India,Batter ,RETAINED,0,0,LSG,2024
+85,Faf du Plessis, South Africa,Batter ,RETAINED,0,0,RCB,2024
+235,Finn Allen, New Zealand,Batter ,UNSOLD,7500000,0,,2024
+166,Nitish Rana, India,Batter ,RETAINED,0,0,KKR,2024
+52,Shikhar Dhawan, India,Batter ,RETAINED,0,0,PBKS,2024
+254,Rithik Easwaran, India,Batter ,UNSOLD,2000000,0,,2024
+57,Harpreet Singh Bhatia, India,Batter ,RETAINED,0,0,PBKS,2024
+107,Aiden Markram, South Africa,Batter ,RETAINED,0,0,SRH,2024
+41,Tim David, Australia,Batter ,RETAINED,0,0,MI,2024
+203,Rohan Kunnummal, India,Batter ,UNSOLD,2000000,0,,2024
+140,David Warner, Australia,Batter ,RETAINED,0,0,DC,2024
+114,Mayank Agarwal, India,Batter ,RETAINED,0,0,SRH,2024
+136,Shaik Rasheed, India,Batter ,RETAINED,0,0,CSK,2024
+152,Shubman Gill, India,Batter ,RETAINED,0,0,GT,2024
+169,Jason Roy, England,Batter ,RETAINED,0,0,KKR,2024
+177,Harry Brook, England,Batter ,SOLD,20000000,40000000,DC,2024
+178,Travis Head, Australia,Batter ,SOLD,20000000,68000000,SRH,2024
+282,Rilee Rossouw, South Africa,Batter ,SOLD,20000000,80000000,PBKS,2024
+210,Sameer Rizvi, India,Batter ,SOLD,2000000,84000000,CSK,2024
+281,Manish Pandey, India,Batter ,SOLD,5000000,5000000,KKR,2024
+208,Shubham Dubey, India,Batter ,SOLD,2000000,58000000,RR,2024
+179,Rovman Powell, West Indies,Batter ,SOLD,10000000,74000000,RR,2024
+211,Angkrish Raghuvanshi, India,Batter ,SOLD,2000000,2000000,KKR,2024
+268,Shashank Singh, India,Batter ,SOLD,2000000,2000000,PBKS,2024
+295,Swastik Chikara, India,Batter ,SOLD,2000000,2000000,DC,2024
+307,Saurav Chauhan, India,Batter ,SOLD,2000000,2000000,RCB,2024
+242,Ashton Turner, Australia,Batter ,SOLD,10000000,10000000,,2024
+237,Sherfane Rutherford, West Indies,Batter ,SOLD,15000000,15000000,KKR,2024
+252,Sandeep Warrier, India,Bowler ,UNSOLD,5000000,0,,2024
+73,Avesh Khan, India,Bowler ,TRADED,0,0,RR,2024
+151,Mukesh Kumar, India,Bowler ,RETAINED,0,0,DC,2024
+201,Ish Sodhi, New Zealand,Bowler ,UNSOLD,7500000,0,,2024
+67,Rahul Chahar, India,Bowler ,RETAINED,0,0,PBKS,2024
+97,Mayank Dagar, India,Bowler ,TRADED,0,0,RCB,2024
+144,Praveen Dubey, India,Bowler ,RETAINED,0,0,DC,2024
+146,Anrich Nortje, South Africa,Bowler ,RETAINED,0,0,DC,2024
+226,Ishan Porel, India,Bowler ,UNSOLD,2000000,0,,2024
+275,Abhilash Shetty, India,Bowler ,UNSOLD,2000000,0,,2024
+49,Akash Madhwal, India,Bowler ,RETAINED,0,0,MI,2024
+161,Noor Ahmad, Afghanistan,Bowler ,RETAINED,0,0,GT,2024
+202,Tabraiz Shamsi, South Africa,Bowler ,UNSOLD,5000000,0,,2024
+234,Pulkit Narang, India,Bowler ,UNSOLD,2000000,0,,2024
+101,Himanshu Sharma, India,Bowler ,RETAINED,0,0,RCB,2024
+229,Shiva Singh, India,Bowler ,UNSOLD,2000000,0,,2024
+248,Tymal Mills, England,Bowler ,UNSOLD,15000000,0,,2024
+81,Trent Boult, New Zealand,Bowler ,RETAINED,0,0,RR,2024
+199,Adil Rashid, England,Bowler ,UNSOLD,20000000,0,,2024
+249,Lance Morris, Australia,Bowler ,UNSOLD,7500000,0,,2024
+65,Kagiso Rabada, South Africa,Bowler ,RETAINED,0,0,PBKS,2024
+253,Luke Wood, England,Bowler ,UNSOLD,5000000,0,,2024
+31,Mohsin Khan, India,Bowler ,RETAINED,0,0,LSG,2024
+32,Ravi Bishnoi, India,Bowler ,RETAINED,0,0,LSG,2024
+294,Adam Milne, New Zealand,Bowler ,UNSOLD,10000000,0,,2024
+109,Deepak Chahar, India,Bowler ,RETAINED,0,0,CSK,2024
+196,Josh Hazlewood, Australia,Bowler ,UNSOLD,20000000,0,,2024
+130,Fazalhaq Farooqi, Afghanistan,Bowler ,RETAINED,0,0,SRH,2024
+286,Waqar Salamkheil, Afghanistan,Bowler ,UNSOLD,5000000,0,,2024
+64,Arshdeep Singh, India,Bowler ,RETAINED,0,0,PBKS,2024
+126,Mayank Markande, India,Bowler ,RETAINED,0,0,SRH,2024
+159,Jayant Yadav, India,Bowler ,RETAINED,0,0,GT,2024
+70,Yuzvendra Chahal, India,Bowler ,RETAINED,0,0,RR,2024
+150,Ishant Sharma, India,Bowler ,RETAINED,0,0,DC,2024
+172,Vaibhav Arora, India,Bowler ,RETAINED,0,0,KKR,2024
+75,Kuldeep Sen, India,Bowler ,RETAINED,0,0,RR,2024
+95,Karn Sharma, India,Bowler ,RETAINED,0,0,RCB,2024
+173,Varun Chakaravarthy, India,Bowler ,RETAINED,0,0,KKR,2024
+33,Yash Thakur, India,Bowler ,RETAINED,0,0,LSG,2024
+148,Lungi Ngidi, South Africa,Bowler ,RETAINED,0,0,DC,2024
+30,Mayank Yadav, India,Bowler ,RETAINED,0,0,LSG,2024
+131,Matheesha Pathirana, Sri Lanka,Bowler ,RETAINED,0,0,CSK,2024
+274,Mohammed Kaif, India,Bowler ,UNSOLD,2000000,0,,2024
+50,Jason Behrendorff, Australia,Bowler ,RETAINED,0,0,MI,2024
+104,Vidhwath Kaverappa, India,Bowler ,RETAINED,0,0,PBKS,2024
+171,Harshit Rana, India,Bowler ,RETAINED,0,0,KKR,2024
+293,Matt Henry, New Zealand,Bowler ,UNSOLD,7500000,0,,2024
+134,Mukesh Choudhary, India,Bowler ,RETAINED,0,0,CSK,2024
+200,Akeal Hosein, West Indies,Bowler ,UNSOLD,5000000,0,,2024
+100,Reece Topley, England,Bowler ,RETAINED,0,0,RCB,2024
+105,Naveen-ul-Haq, Afghanistan,Bowler ,RETAINED,0,0,LSG,2024
+129,T Natarajan, India,Bowler ,RETAINED,0,0,SRH,2024
+163,Joshua Little, Ireland,Bowler ,RETAINED,0,0,GT,2024
+43,Arjun Tendulkar, India,Bowler ,RETAINED,0,0,MI,2024
+158,Darshan Nalkande, India,Bowler ,RETAINED,0,0,GT,2024
+306,Gurjapneet Singh, India,Bowler ,UNSOLD,2000000,0,,2024
+76,Sandeep Sharma, India,Bowler ,RETAINED,0,0,RR,2024
+63,Harpreet Brar, India,Bowler ,RETAINED,0,0,PBKS,2024
+170,Suyash Sharma, India,Bowler ,RETAINED,0,0,KKR,2024
+46,Jasprit Bumrah, India,Bowler ,RETAINED,0,0,MI,2024
+149,Khaleel Ahmed, India,Bowler ,RETAINED,0,0,DC,2024
+34,Amit Mishra, India,Bowler ,RETAINED,0,0,LSG,2024
+147,Kuldeep Yadav, India,Bowler ,RETAINED,0,0,DC,2024
+246,Ben Dwarshuis, Australia,Bowler ,UNSOLD,5000000,0,,2024
+277,Shubham Agarwal, India,Bowler ,UNSOLD,2000000,0,,2024
+133,RS Hangargekar, India,Bowler ,RETAINED,0,0,CSK,2024
+273,KM Asif, India,Bowler ,UNSOLD,2000000,0,,2024
+99,Mohammed Siraj, India,Bowler ,RETAINED,0,0,RCB,2024
+145,Vicky Ostwal, India,Bowler ,RETAINED,0,0,DC,2024
+233,Murugan Ashwin, India,Bowler ,UNSOLD,2000000,0,,2024
+47,Kumar Kartikeya, India,Bowler ,RETAINED,0,0,MI,2024
+103,Vijaykumar Vyshak, India,Bowler ,RETAINED,0,0,RCB,2024
+135,Simarjeet Singh, India,Bowler ,RETAINED,0,0,CSK,2024
+137,Prashant Solanki, India,Bowler ,RETAINED,0,0,CSK,2024
+162,Ravisrinivasan Sai Kishore, India,Bowler ,RETAINED,0,0,GT,2024
+292,Dushmantha Chameera, Sri Lanka,Bowler ,UNSOLD,5000000,0,,2024
+71,Prasidh Krishna, India,Bowler ,RETAINED,0,0,RR,2024
+164,Mohit Sharma, India,Bowler ,RETAINED,0,0,GT,2024
+66,Nathan Ellis, Australia,Bowler ,RETAINED,0,0,PBKS,2024
+132,Tushar Deshpande, India,Bowler ,RETAINED,0,0,CSK,2024
+276,Prithvi Raj Yarra, India,Bowler ,UNSOLD,2000000,0,,2024
+29,Mark Wood, England,Bowler ,RETAINED,0,0,LSG,2024
+82,Adam Zampa, Australia,Bowler ,RETAINED,0,0,RR,2024
+160,Mohammed Shami, India,Bowler ,RETAINED,0,0,GT,2024
+72,Navdeep Saini, India,Bowler ,RETAINED,0,0,RR,2024
+102,Rajan Kumar, India,Bowler ,RETAINED,0,0,RCB,2024
+127,Maheesh Theekshana, Sri Lanka,Bowler ,RETAINED,0,0,CSK,2024
+223,Kuldip Yadav, India,Bowler ,UNSOLD,2000000,0,,2024
+125,Bhuvneshwar Kumar, India,Bowler ,RETAINED,0,0,SRH,2024
+128,Umran Malik, India,Bowler ,RETAINED,0,0,SRH,2024
+195,Jaydev Unadkat, India,Bowler ,SOLD,5000000,16000000,SRH,2024
+284,Lockie Ferguson, New Zealand,Bowler ,SOLD,20000000,20000000,RCB,2024
+285,Mujeeb Ur Rahman, Afghanistan,Bowler ,SOLD,20000000,20000000,KKR,2024
+250,Mustafizur Rahman, Bangladesh,Bowler ,SOLD,20000000,20000000,CSK,2024
+231,Manimaran Siddharth, India,Bowler ,SOLD,2000000,24000000,LSG,2024
+181,Shardul Thakur, India,Bowler ,SOLD,20000000,40000000,CSK,2024
+263,Nuwan Thushara, Sri Lanka,Bowler ,SOLD,5000000,48000000,MI,2024
+194,Shivam Mavi, India,Bowler ,SOLD,5000000,64000000,LSG,2024
+247,Spencer Johnson, Australia,Bowler ,SOLD,5000000,100000000,GT,2024
+180,Pat Cummins, Australia,Bowler ,SOLD,20000000,205000000,SRH,2024
+304,Nandre Burger, South Africa,Bowler ,SOLD,5000000,5000000,RR,2024
+192,Chetan Sakariya, India,Bowler ,SOLD,5000000,5000000,KKR,2024
+182,Harshal Patel, India,Bowler ,SOLD,20000000,117500000,PBKS,2024
+193,Umesh Yadav, India,Bowler ,SOLD,20000000,58000000,GT,2024
+279,Jhatavedh Subramanyan, Hong Kong,Bowler ,SOLD,2000000,2000000,SRH,2024
+232,Shreyas Gopal, India,Bowler ,SOLD,2000000,2000000,MI,2024
+230,Manav Suthar, India,Bowler ,SOLD,2000000,2000000,GT,2024
+227,Rasikh Dar Salam, India,Bowler ,SOLD,2000000,2000000,DC,2024
+278,Prince Choudhary, India,Bowler ,SOLD,2000000,2000000,PBKS,2024
+287,Arshad Khan, India,Bowler ,SOLD,2000000,2000000,LSG,2024
+305,Sakib Hussain, India,Bowler ,SOLD,2000000,2000000,KKR,2024
+228,Akash Maharaj Singh, India,Bowler ,SOLD,2000000,2000000,SRH,2024
+225,Kartik Tyagi, India,Bowler ,SOLD,2000000,6000000,GT,2024
+291,Gus Atkinson, England,Bowler ,SOLD,10000000,10000000,KKR,2024
+224,Sushant Mishra, India,Bowler ,SOLD,2000000,22000000,GT,2024
+197,Dilshan Madushanka, Sri Lanka,Bowler ,SOLD,5000000,46000000,MI,2024
+222,Yash Dayal, India,Bowler ,SOLD,2000000,50000000,RCB,2024
+251,Jhye Richardson, Australia,Bowler ,SOLD,15000000,50000000,DC,2024
+191,Alzarri Joseph, West Indies,Bowler ,SOLD,10000000,115000000,RCB,2024
+198,Mitchell Starc, Australia,Bowler ,SOLD,20000000,247500000,KKR,2024
+35,Abhimanyu Easwaran,India,WK-Batter,UNSOLD,2000000,0,,2023
+42,Mohammed Azharuddeen,India,WK-Batter,UNSOLD,2000000,0,,2023
+7,Tom Banton,England,WK-Batter,UNSOLD,20000000,0,,2023
+83,Baba Indrajith,India,WK-Batter,UNSOLD,2000000,0,,2023
+128,Kusal Mendis,Sri Lanka,WK-Batter,UNSOLD,5000000,0,,2023
+136,Johnson Charles,West Indies,WK-Batter,UNSOLD,5000000,0,,2023
+38,Sumit Kumar,India,WK-Batter,UNSOLD,2000000,0,,2023
+103,G Ajitesh,India,WK-Batter,UNSOLD,2000000,0,,2023
+131,Dinesh Bana,India,WK-Batter,UNSOLD,2000000,0,,2023
+85,Karan Shinde,India,WK-Batter,UNSOLD,2000000,0,,2023
+40,Srikar Bharat,India,WK-Batter,SOLD,2000000,12000000,GT,2023
+16,Nicholas Pooran,West Indies,WK-Batter,SOLD,20000000,160000000,LSG,2023
+6,Heinrich Klaasen,South Africa,WK-Batter,SOLD,10000000,52500000,SRH,2023
+127,Litton Das,Bangladesh,WK-Batter,SOLD,5000000,5000000,KKR,2023
+82,Donavon Ferreira,South Africa,WK-Batter,SOLD,2000000,5000000,RR,2023
+47,N Jagadeesan,India,WK-Batter,SOLD,2000000,9000000,KKR,2023
+86,Vishnu Vinod,India,WK-Batter,SOLD,2000000,2000000,MI,2023
+114,Kunal Singh Rathore,India,WK-Batter,SOLD,2000000,2000000,RR,2023
+104,Nitish Reddy,India,WK-Batter,SOLD,2000000,2000000,SRH,2023
+84,Urvil Patel,India,WK-Batter,SOLD,2000000,2000000,GT,2023
+41,Upendra Yadav,India,WK-Batter,SOLD,2000000,2500000,SRH,2023
+34,Corbin Bosch,South Africa,Allrounder,UNSOLD,2000000,0,,2023
+65,James Neesham,New Zealand,Allrounder,UNSOLD,20000000,0,,2023
+37,Shashank Singh,India,Allrounder,UNSOLD,2000000,0,,2023
+119,Deepesh Nainwal,India,Allrounder,UNSOLD,2000000,0,,2023
+121,Shubhang Hegde,India,Allrounder,UNSOLD,2000000,0,,2023
+146,Prashant Chopra,India,Allrounder,UNSOLD,2000000,0,,2023
+64,Mohammad Nabi,Afghanistan,Allrounder,UNSOLD,10000000,0,,2023
+115,Jitender Pal,India,Allrounder,UNSOLD,2000000,0,,2023
+102,Sanjay Yadav,India,Allrounder,UNSOLD,2000000,0,,2023
+107,Tom Curran,England,Allrounder,UNSOLD,7500000,0,,2023
+150,Wayne Parnell,South Africa,Allrounder,UNSOLD,7500000,0,,2023
+81,Jagadeesha Suchith,India,Allrounder,UNSOLD,2000000,0,,2023
+108,Varun Aaron,India,Allrounder,UNSOLD,5000000,0,,2023
+33,Saurabh Kumar,India,Allrounder,UNSOLD,2000000,0,,2023
+111,Balu Surya,India,Allrounder,UNSOLD,2000000,0,,2023
+93,Jamie Overton,England,Allrounder,UNSOLD,20000000,0,,2023
+66,Dasun Shanaka,Sri Lanka,Allrounder,UNSOLD,5000000,0,,2023
+57,Sherfane Rutherford,West Indies,Allrounder,UNSOLD,15000000,0,,2023
+62,Daryl Mitchell,New Zealand,Allrounder,UNSOLD,10000000,0,,2023
+59,Travis Head,Australia,Allrounder,UNSOLD,20000000,0,,2023
+106,Rehan Ahmed,England,Allrounder,UNSOLD,5000000,0,,2023
+116,Utkarsh Singh,India,Allrounder,UNSOLD,2000000,0,,2023
+137,Suryansh Shedge,India,Allrounder,UNSOLD,2000000,0,,2023
+97,Himanshu Bisht,India,Allrounder,UNSOLD,2000000,0,,2023
+55,Paul Stirling,Ireland,Allrounder,UNSOLD,5000000,0,,2023
+100,Sumeet Verma,India,Allrounder,UNSOLD,2000000,0,,2023
+58,Will Jacks,England,Allrounder,SOLD,15000000,32000000,RCB,2023
+140,Naveen-ul-Haq,Afghanistan,Allrounder,SOLD,5000000,5000000,LSG,2023
+25,Odean Smith,West Indies,Allrounder,SOLD,5000000,5000000,GT,2023
+3,Sikandar Raza,Zimbabwe,Allrounder,SOLD,5000000,5000000,PBKS,2023
+2,Sam Curran,England,Allrounder,SOLD,20000000,185000000,PBKS,2023
+20,Jason Holder,West Indies,Allrounder,SOLD,20000000,57500000,RR,2023
+80,Prerak Mankad,India,Allrounder,SOLD,2000000,2000000,LSG,2023
+138,Akash Vashist,India,Allrounder,SOLD,2000000,2000000,RR,2023
+143,Yudhvir Singh Charak,India,Allrounder,SOLD,2000000,2000000,LSG,2023
+147,Abdul Basith,India,Allrounder,SOLD,2000000,2000000,RR,2023
+98,Shams Mulani,India,Allrounder,SOLD,2000000,2000000,MI,2023
+125,Shivam Singh,India,Allrounder,SOLD,2000000,2000000,PBKS,2023
+122,Nehal Wadhera,India,Allrounder,SOLD,2000000,2000000,MI,2023
+123,Bhagath Varma,India,Allrounder,SOLD,2000000,2000000,CSK,2023
+79,Duan Jansen,South Africa,Allrounder,SOLD,2000000,2000000,MI,2023
+77,Manoj Bhandage,India,Allrounder,SOLD,2000000,2000000,RCB,2023
+120,Sonu Yadav,India,Allrounder,SOLD,2000000,2000000,RCB,2023
+32,Samarth Vyas,India,Allrounder,SOLD,2000000,2000000,SRH,2023
+39,Sanvir Singh,India,Allrounder,SOLD,2000000,2000000,SRH,2023
+99,Swapnil Singh,India,Allrounder,SOLD,2000000,2000000,LSG,2023
+113,Ajay Jadav Mandal,India,Allrounder,SOLD,2000000,2000000,CSK,2023
+124,Mohit Rathee,India,Allrounder,SOLD,2000000,2000000,PBKS,2023
+43,Vaibhav Arora,India,Allrounder,SOLD,2000000,6000000,KKR,2023
+36,Nishant Sindhu,India,Allrounder,SOLD,2000000,6000000,CSK,2023
+101,David Wiese,Namibia,Allrounder,SOLD,10000000,10000000,KKR,2023
+72,Kyle Jamieson,New Zealand,Allrounder,SOLD,10000000,10000000,CSK,2023
+78,Mayank Dagar,India,Allrounder,SOLD,2000000,18000000,SRH,2023
+30,Vivrant Sharma,India,Allrounder,SOLD,2000000,26000000,SRH,2023
+5,Ben Stokes,England,Allrounder,SOLD,20000000,162500000,CSK,2023
+4,Cameron Green,Australia,Allrounder,SOLD,20000000,175000000,MI,2023
+149,Shakib Al Hasan,Bangladesh,Allrounder,SOLD,15000000,15000000,KKR,2023
+63,Daniel Sams,Australia,Allrounder,SOLD,7500000,7500000,LSG,2023
+270,Gaurav Chaudhary, India,WK-Batter ,UNSOLD,2000000,0,,2024
+117,MS Dhoni, India,WK-Batter ,RETAINED,0,0,CSK,2024
+91,Dinesh Karthik, India,WK-Batter ,RETAINED,0,0,RCB,2024
+54,Jonny Bairstow, England,WK-Batter ,RETAINED,0,0,PBKS,2024
+17,KL Rahul, India,WK-Batter ,RETAINED,0,0,LSG,2024
+68,Sanju Samson, India,WK-Batter ,RETAINED,0,0,RR,2024
+90,Anuj Rawat, India,WK-Batter ,RETAINED,0,0,RCB,2024
+154,Wriddhiman Saha, India,WK-Batter ,RETAINED,0,0,GT,2024
+18,Quinton de Kock, South Africa,WK-Batter ,RETAINED,0,0,LSG,2024
+217,Urvil Patel, India,WK-Batter ,UNSOLD,2000000,0,,2024
+55,Prabhsimran Singh, India,WK-Batter ,RETAINED,0,0,PBKS,2024
+79,Kunal Singh Rathore, India,WK-Batter ,RETAINED,0,0,RR,2024
+272,Bipin Saurabh, India,WK-Batter ,UNSOLD,2000000,0,,2024
+143,Abishek Porel, India,WK-Batter ,RETAINED,0,0,DC,2024
+301,Ajitesh Guruswamy, India,WK-Batter ,UNSOLD,2000000,0,,2024
+80,Jos Buttler, England,WK-Batter ,RETAINED,0,0,RR,2024
+303,Krishnan Shrijith, India,WK-Batter ,UNSOLD,2000000,0,,2024
+19,Nicholas Pooran, West Indies,WK-Batter ,RETAINED,0,0,LSG,2024
+116,Upendra Yadav, India,WK-Batter ,RETAINED,0,0,SRH,2024
+39,Ishan Kishan, India,WK-Batter ,RETAINED,0,0,MI,2024
+42,Vishnu Vinod, India,WK-Batter ,RETAINED,0,0,MI,2024
+186,Philip Salt, England,WK-Batter ,UNSOLD,15000000,0,,2024
+53,Jitesh Sharma, India,WK-Batter ,RETAINED,0,0,PBKS,2024
+139,Rishabh Pant, India,WK-Batter ,RETAINED,0,0,DC,2024
+189,Josh Inglis, Australia,WK-Batter ,UNSOLD,20000000,0,,2024
+218,Vishnu Solanki, India,WK-Batter ,UNSOLD,2000000,0,,2024
+190,Kusal Mendis, Sri Lanka,WK-Batter ,UNSOLD,5000000,0,,2024
+78,Dhruv Jurel, India,WK-Batter ,RETAINED,0,0,RR,2024
+113,Devon Conway, New Zealand,WK-Batter ,RETAINED,0,0,CSK,2024
+153,Matthew Wade, Australia,WK-Batter ,RETAINED,0,0,GT,2024
+168,Rahmanullah Gurbaz, Afghanistan,WK-Batter ,RETAINED,0,0,KKR,2024
+112,Heinrich Klaasen, South Africa,WK-Batter ,RETAINED,0,0,SRH,2024
+219,Tom Kohler-Cadmore, England,WK-Batter ,SOLD,4000000,4000000,RR,2024
+271,Robin Minz, India,WK-Batter ,SOLD,2000000,36000000,GT,2024
+221,Kumar Kushagra, India,WK-Batter ,SOLD,2000000,72000000,DC,2024
+187,Tristan Stubbs, South Africa,WK-Batter ,SOLD,5000000,5000000,DC,2024
+188,Srikar Bharat, India,WK-Batter ,SOLD,5000000,5000000,KKR,2024
+220,Ricky Bhui, India,WK-Batter ,SOLD,2000000,2000000,DC,2024
+302,Aravelly Avanish, India,WK-Batter ,SOLD,2000000,2000000,CSK,2024
+290,Shai Hope, West Indies,WK-Batter ,SOLD,7500000,7500000,DC,2024
+12,Abhinav Manohar, India,Allrounder ,RETAINED,0,0,GT,2024
+23,Krunal Pandya, India,Allrounder ,RETAINED,0,0,LSG,2024
+86,Glenn Maxwell, Australia,Allrounder ,RETAINED,0,0,RCB,2024
+92,Suyash Prabhudessai, India,Allrounder ,RETAINED,0,0,RCB,2024
+120,Abhishek Sharma, India,Allrounder ,RETAINED,0,0,SRH,2024
+8,Mitchell Marsh, Australia,Allrounder ,RETAINED,0,0,DC,2024
+21,Deepak Hooda, India,Allrounder ,RETAINED,0,0,LSG,2024
+122,Marco Jansen, South Africa,Allrounder ,RETAINED,0,0,SRH,2024
+244,Odean Smith, West Indies,Allrounder ,UNSOLD,5000000,0,,2024
+256,Shashank Singh, India,Allrounder ,UNSOLD,2000000,0,,2024
+35,Hardik Pandya, India,Allrounder ,TRADED,0,0,MI,2024
+123,Washington Sundar, India,Allrounder ,RETAINED,0,0,SRH,2024
+119,Shahbaz Ahmed, India,Allrounder ,TRADED,0,0,SRH,2024
+212,Atit Sheth, India,Allrounder ,UNSOLD,2000000,0,,2024
+88,Cameron Green, Australia,Allrounder ,TRADED,0,0,RCB,2024
+3,Nishant Sindhu, India,Allrounder ,RETAINED,0,0,CSK,2024
+13,Andre Russell, West Indies,Allrounder ,RETAINED,0,0,KKR,2024
+213,Hrithik Shokeen, India,Allrounder ,UNSOLD,2000000,0,,2024
+298,Rohit Rayudu, India,Allrounder ,UNSOLD,2000000,0,,2024
+5,Shivam Dube, India,Allrounder ,RETAINED,0,0,CSK,2024
+56,Liam Livingstone, England,Allrounder ,RETAINED,0,0,PBKS,2024
+94,Mahipal Lomror, India,Allrounder ,RETAINED,0,0,RCB,2024
+48,Piyush Chawla, India,Allrounder ,RETAINED,0,0,MI,2024
+4,Ravindra Jadeja, India,Allrounder ,RETAINED,0,0,CSK,2024
+6,Axar Patel, India,Allrounder ,RETAINED,0,0,DC,2024
+96,Manoj Bhandage, India,Allrounder ,RETAINED,0,0,RCB,2024
+16,Venkatesh Iyer, India,Allrounder ,RETAINED,0,0,KKR,2024
+27,Prerak Mankad, India,Allrounder ,RETAINED,0,0,LSG,2024
+7,Lalit Yadav, India,Allrounder ,RETAINED,0,0,DC,2024
+58,Atharva taide, India,Allrounder ,RETAINED,0,0,PBKS,2024
+261,Tanush Kotian, India,Allrounder ,UNSOLD,2000000,0,,2024
+24,Kyle Mayers, West Indies,Allrounder ,RETAINED,0,0,LSG,2024
+207,Raj Bawa, India,Allrounder ,UNSOLD,2000000,0,,2024
+264,Kamlesh Nagarkoti, India,Allrounder ,UNSOLD,3000000,0,,2024
+93,Will Jacks, England,Allrounder ,RETAINED,0,0,RCB,2024
+288,Michael Bracewell, New Zealand,Allrounder ,UNSOLD,10000000,0,,2024
+69,Ravichandran Ashwin, India,Allrounder ,RETAINED,0,0,RR,2024
+243,Keemo Paul, West Indies,Allrounder ,UNSOLD,7500000,0,,2024
+14,Anukul Roy, India,Allrounder ,RETAINED,0,0,KKR,2024
+26,Marcus Stoinis, Australia,Allrounder ,RETAINED,0,0,LSG,2024
+98,Akash Deep, India,Allrounder ,RETAINED,0,0,RCB,2024
+10,Rashid Khan, Afghanistan,Allrounder ,RETAINED,0,0,GT,2024
+15,Sunil Narine, West Indies,Allrounder ,RETAINED,0,0,KKR,2024
+62,Shivam Singh, India,Allrounder ,RETAINED,0,0,PBKS,2024
+22,K Gowtham Thamarai Kannan, India,Allrounder ,RETAINED,0,0,LSG,2024
+40,Tilak Varma, India,Allrounder ,RETAINED,0,0,MI,2024
+241,James Neesham, New Zealand,Allrounder ,UNSOLD,15000000,0,,2024
+44,Shams Mulani, India,Allrounder ,RETAINED,0,0,MI,2024
+259,Harsh Dubey, India,Allrounder ,UNSOLD,2000000,0,,2024
+111,Glenn Phillips, New Zealand,Allrounder ,RETAINED,0,0,SRH,2024
+1,Mitchell Santner, New Zealand,Allrounder ,RETAINED,0,0,CSK,2024
+9,Rahul Tewatia, India,Allrounder ,RETAINED,0,0,GT,2024
+2,Moeen Ali, England,Allrounder ,RETAINED,0,0,CSK,2024
+60,Sam Curran, England,Allrounder ,RETAINED,0,0,PBKS,2024
+239,Qais Ahmad, Afghanistan,Allrounder ,UNSOLD,5000000,0,,2024
+206,Sarfaraz Khan, India,Allrounder ,UNSOLD,2000000,0,,2024
+209,Vivrant Sharma, India,Allrounder ,UNSOLD,2000000,0,,2024
+265,Pradosh Paul, India,Allrounder ,UNSOLD,2000000,0,,2024
+11,Vijay Shankar, India,Allrounder ,RETAINED,0,0,GT,2024
+59,Rishi Dhawan, India,Allrounder ,RETAINED,0,0,PBKS,2024
+61,Sikandar Raza, Zimbabwe,Allrounder ,RETAINED,0,0,PBKS,2024
+28,Yudhvir Singh Charak, India,Allrounder ,RETAINED,0,0,LSG,2024
+51,Romario Shepherd, West Indies,Allrounder ,TRADED,0,0,MI,2024
+118,Nitish Reddy, India,Allrounder ,RETAINED,0,0,SRH,2024
+124,Sanvir Singh, India,Allrounder ,RETAINED,0,0,SRH,2024
+138,Ajay Jadav Mandal, India,Allrounder ,RETAINED,0,0,CSK,2024
+84,Donovan Ferreira, South Africa,Allrounder ,RETAINED,0,0,RR,2024
+245,David Willey, England,Allrounder ,SOLD,20000000,20000000,LSG,2024
+184,Daryl Mitchell, New Zealand,Allrounder ,SOLD,10000000,140000000,CSK,2024
+175,Azmatullah Omarzai, Afghanistan,Allrounder ,SOLD,5000000,5000000,GT,2024
+215,Shahrukh Khan, India,Allrounder ,SOLD,4000000,74000000,GT,2024
+260,Anshul Kamboj, India,Allrounder ,SOLD,2000000,2000000,MI,2024
+300,Swapnil Singh, India,Allrounder ,SOLD,2000000,2000000,RCB,2024
+267,Vishwanath Singh, India,Allrounder ,SOLD,2000000,2000000,PBKS,2024
+258,Naman Dhir, India,Allrounder ,SOLD,2000000,2000000,MI,2024
+297,Abid Mushtaq, India,Allrounder ,SOLD,2000000,2000000,RR,2024
+216,Ramandeep Singh, India,Allrounder ,SOLD,2000000,2000000,KKR,2024
+299,Shivalik Sharma, India,Allrounder ,SOLD,2000000,2000000,MI,2024
+214,Arshin Kulkarni, India,Allrounder ,SOLD,2000000,2000000,LSG,2024
+269,Tanay Thyagarajan, India,Allrounder ,SOLD,2000000,2000000,PBKS,2024
+266,Ashutosh Sharma, India,Allrounder ,SOLD,2000000,2000000,PBKS,2024
+262,Sumit Kumar, India,Allrounder ,SOLD,2000000,10000000,DC,2024
+183,Rachin Ravindra, New Zealand,Allrounder ,SOLD,5000000,18000000,CSK,2024
+185,Chris Woakes, England,Allrounder ,SOLD,20000000,42000000,PBKS,2024
+176,Gerald Coetzee, South Africa,Allrounder ,SOLD,20000000,50000000,MI,2024
+174,Wanindu Hasaranga, Sri Lanka,Allrounder ,SOLD,15000000,15000000,SRH,2024
+289,Mohammad Nabi, Afghanistan,Allrounder ,SOLD,15000000,15000000,MI,2024
+240,Tom Curran, England,Allrounder ,SOLD,15000000,15000000,RCB,2024
+2,Heinrich Klaasen,South Africa,WK-Batter,RETAINED,0,0,SRH,2025
+32,Riyan Parag,India,Allrounder,RETAINED,0,0,RR,2025
+25,Rahul Tewatia,India,Allrounder,RETAINED,0,0,GT,2025
+29,Ayush Badoni,India,Batter,RETAINED,0,0,LSG,2025
+21,Rashid Khan,Afghanistan,Allrounder,RETAINED,0,0,GT,2025
+110,Rinku Singh,India,Batter,RETAINED,0,0,KKR,2025
+26,Ravi Bishnoi,India,Bowler,RETAINED,0,0,LSG,2025
+6,Rajat Patidar,India,Batter,RETAINED,0,0,RCB,2025
+22,Shubman Gill,India,Batter,RETAINED,0,0,GT,2025
+27,Mayank Yadav,India,Bowler,RETAINED,0,0,LSG,2025
+3,Pat Cummins,Australia,Allrounder,RETAINED,0,0,SRH,2025
+39,Prabhsimran Singh,India,WK-Batter,RETAINED,0,0,PBKS,2025
+16,Yash Dayal,India,Bowler,RETAINED,0,0,RCB,2025
+8,Ruturaj Gaikwad,India,Batter,RETAINED,0,0,CSK,2025
+9,Harshit Rana,India,Bowler,RETAINED,0,0,KKR,2025
+20,Travis Head,Australia,Allrounder,RETAINED,0,0,SRH,2025
+42,Tristan Stubbs,South Africa,WK-Batter,RETAINED,0,0,DC,2025
+117,Virat Kohli,India,Batter,RETAINED,0,0,RCB,2025
+10,Ramandeep Singh,India,Allrounder,RETAINED,0,0,KKR,2025
+43,Abishek Porel,India,WK-Batter,RETAINED,0,0,DC,2025
+35,Shivam Dube,India,Allrounder,RETAINED,0,0,CSK,2025
+41,Kuldeep Yadav,India,Bowler,RETAINED,0,0,DC,2025
+19,Matheesha Pathirana,Sri Lanka,Bowler,RETAINED,0,0,CSK,2025
+34,Shimron Hetmyer,West Indies,Batter,RETAINED,0,0,RR,2025
+23,Nicholas Pooran,West Indies,WK-Batter,RETAINED,0,0,LSG,2025
+40,Axar Patel,India,Allrounder,RETAINED,0,0,DC,2025
+28,Shahrukh Khan,India,Allrounder,RETAINED,0,0,GT,2025
+31,Yashasvi Jaiswal,India,Batter,RETAINED,0,0,RR,2025
+37,Ravindra Jadeja,India,Allrounder,RETAINED,0,0,CSK,2025
+15,Rohit Sharma,India,Batter,RETAINED,0,0,MI,2025
+14,Hardik Pandya,India,Allrounder,RETAINED,0,0,MI,2025
+17,Abhishek Sharma,India,Allrounder,RETAINED,0,0,SRH,2025
+11,Jasprit Bumrah,India,Bowler,RETAINED,0,0,MI,2025
+38,Shashank Singh,India,Allrounder,RETAINED,0,0,PBKS,2025
+12,Nitish Reddy,India,Allrounder,RETAINED,0,0,SRH,2025
+13,Suryakumar Yadav,India,Batter,RETAINED,0,0,MI,2025
+30,Sanju Samson,India,WK-Batter,RETAINED,0,0,RR,2025
+119,MS Dhoni,India,WK-Batter,RETAINED,0,0,CSK,2025
+4,Varun Chakaravarthy,India,Bowler,RETAINED,0,0,KKR,2025
+24,Sai Sudharsan,India,Batter,RETAINED,0,0,GT,2025
+18,Tilak Varma,India,Batter,RETAINED,0,0,MI,2025
+5,Sunil Narine,West Indies,Allrounder,RETAINED,0,0,KKR,2025
+7,Andre Russell,West Indies,Allrounder,RETAINED,0,0,KKR,2025
+36,Sandeep Sharma,India,Bowler,RETAINED,0,0,RR,2025
+33,Dhruv Jurel,India,WK-Batter,RETAINED,0,0,RR,2025
+1,Mohsin Khan,India,Bowler,RETAINED,0,0,LSG,2025
+230,Aravelly Avanish,India,WK-Batter,UNSOLD,3000000,0,,2025
+235,Vidhwath Kaverappa,India,Bowler,UNSOLD,3000000,0,,2025
+332,Ripal Patel,India,Allrounder,UNSOLD,3000000,0,,2025
+99,Saurabh Netravalkar,United States of America,Bowler,UNSOLD,3000000,0,,2025
+83,Ishan Porel,India,Bowler,UNSOLD,3000000,0,,2025
+105,Agni Chopra,India,Batter,UNSOLD,3000000,0,,2025
+234,Sakib Hussain,India,Bowler,UNSOLD,3000000,0,,2025
+363,Tanush Kotian,India,Allrounder,UNSOLD,3000000,0,,2025
+98,Deepak Devadiga,India,Bowler,UNSOLD,3000000,0,,2025
+300,Emanjot Singh Chahal,India,Allrounder,UNSOLD,3000000,0,,2025
+327,Vijay Kumar,India,Bowler,UNSOLD,3000000,0,,2025
+353,Harvik Desai,India,WK-Batter,UNSOLD,3000000,0,,2025
+236,Rajan Kumar,India,Bowler,UNSOLD,3000000,0,,2025
+55,Duan Jansen,South Africa,Allrounder,UNSOLD,3000000,0,,2025
+94,Hrithik Shokeen,India,Allrounder,UNSOLD,3000000,0,,2025
+67,Tejasvi Singh,India,WK-Batter,UNSOLD,3000000,0,,2025
+84,Basil Thampi,India,Bowler,UNSOLD,3000000,0,,2025
+263,Rishi Dhawan,India,Allrounder,UNSOLD,3000000,0,,2025
+285,Arpit Guleria,India,Bowler,UNSOLD,3000000,0,,2025
+333,Sanjay Yadav,India,Allrounder,UNSOLD,3000000,0,,2025
+350,Pukhraj Mann,India,Batter,UNSOLD,3000000,0,,2025
+269,Bailapudi Yeswanth,India,Bowler,UNSOLD,3000000,0,,2025
+80,Priyam Garg,India,Batter,UNSOLD,3000000,0,,2025
+226,Mayank Dagar,India,Allrounder,UNSOLD,3000000,0,,2025
+320,Anshuman Hooda,India,Bowler,UNSOLD,3000000,0,,2025
+305,Naman Tiwari,India,Bowler,UNSOLD,3000000,0,,2025
+81,Shams Mulani,India,Allrounder,UNSOLD,3000000,0,,2025
+268,Raghav Goyal,India,Bowler,UNSOLD,3000000,0,,2025
+303,Divesh Sharma,India,Bowler,UNSOLD,3000000,0,,2025
+334,Avinash Singh,India,Bowler,UNSOLD,3000000,0,,2025
+375,Shivalik Sharma,India,Allrounder,UNSOLD,3000000,0,,2025
+113,Prerak Mankad,India,Allrounder,UNSOLD,3000000,0,,2025
+164,Yash Dhull,India,Batter,UNSOLD,3000000,0,,2025
+97,Aaqib Khan,India,Bowler,UNSOLD,3000000,0,,2025
+114,N Jagadeesan,India,WK-Batter,UNSOLD,3000000,0,,2025
+341,Anmolpreet Singh,India,Batter,UNSOLD,3000000,0,,2025
+383,Atit Sheth,India,Allrounder,UNSOLD,3000000,0,,2025
+56,Samarth Nagaraj,India,Bowler,UNSOLD,3000000,0,,2025
+91,Ayush Mhatre,India,Batter,UNSOLD,3000000,0,,2025
+223,Madhav Kaushik,India,Batter,UNSOLD,3000000,0,,2025
+321,Shiva Singh,India,Allrounder,UNSOLD,3000000,0,,2025
+386,Khrievitso Kense,India,Allrounder,UNSOLD,3000000,0,,2025
+365,LR Chethan,India,WK-Batter,UNSOLD,3000000,0,,2025
+395,Raj Limbani,India,Allrounder,UNSOLD,3000000,0,,2025
+82,Lalit Yadav,India,Allrounder,UNSOLD,3000000,0,,2025
+297,Salman Nizar,India,Batter,UNSOLD,3000000,0,,2025
+240,Jhatavedh Subramanyan,Hong Kong,Bowler,UNSOLD,3000000,0,,2025
+337,Digvijay Deshmukh,India,Allrounder,UNSOLD,3000000,0,,2025
+85,Jagadeesha Suchith,India,Bowler,UNSOLD,3000000,0,,2025
+76,Vivrant Sharma,India,Allrounder,UNSOLD,3000000,0,,2025
+264,Shivam Singh,India,Allrounder,UNSOLD,3000000,0,,2025
+100,Hardik Tamore,India,WK-Batter,UNSOLD,3000000,0,,2025
+112,Virat Singh,India,Batter,UNSOLD,3000000,0,,2025
+338,Yash Dabas,India,Allrounder,UNSOLD,3000000,0,,2025
+280,Sachin Dhas,India,Batter,UNSOLD,3000000,0,,2025
+176,Utkarsh Singh,India,Allrounder,UNSOLD,3000000,0,,2025
+180,Upendra Yadav,India,WK-Batter,UNSOLD,3000000,0,,2025
+325,Brandon McMullen,Scotland,Allrounder,UNSOLD,3000000,0,,2025
+354,Prince Choudhary,India,Bowler,UNSOLD,3000000,0,,2025
+380,Tejasvi Dahiya,India,WK-Batter,UNSOLD,3000000,0,,2025
+336,Umang Kumar,India,Allrounder,UNSOLD,3000000,0,,2025
+355,Prashant Solanki,India,Bowler,UNSOLD,3000000,0,,2025
+115,KM Asif,India,Bowler,UNSOLD,3000000,0,,2025
+106,Aman Hakim Khan,India,Allrounder,UNSOLD,3000000,0,,2025
+313,Abdul Basith,India,Allrounder,UNSOLD,3000000,0,,2025
+366,Murugan Ashwin,India,Bowler,UNSOLD,3000000,0,,2025
+360,Sachin Baby,India,Batter,SOLD,3000000,3000000,SRH,2025
+361,Andre Siddarth C,India,Batter,SOLD,3000000,3000000,CSK,2025
+398,Mohit Rathee,India,Bowler,SOLD,3000000,3000000,RCB,2025
+266,Akash Singh,India,Bowler,SOLD,3000000,3000000,LSG,2025
+356,Swastik Chikara,India,Batter,SOLD,3000000,3000000,RCB,2025
+364,Arshin Kulkarni,India,Allrounder,SOLD,3000000,3000000,LSG,2025
+382,Bevon Jacobs,New Zealand,Batter,SOLD,3000000,3000000,MI,2025
+396,Ashok Sharma,India,Bowler,SOLD,3000000,3000000,RR,2025
+318,Pyla Avinash,India,Batter,SOLD,3000000,3000000,PBKS,2025
+344,Shreyas Gopal,India,Bowler,SOLD,3000000,3000000,CSK,2025
+388,Arjun Tendulkar,India,Bowler,SOLD,3000000,3000000,MI,2025
+195,Manav Suthar,India,Bowler,SOLD,3000000,3000000,GT,2025
+228,Darshan Nalkande,India,Allrounder,SOLD,3000000,3000000,DC,2025
+378,Manvanth Kumar L,India,Allrounder,SOLD,3000000,3000000,DC,2025
+302,Suryansh Shedge,India,Allrounder,SOLD,3000000,3000000,--,2025
+301,Musheer Khan,India,Batter,SOLD,3000000,3000000,PBKS,2025
+160,Atharva Taide,India,Batter,SOLD,3000000,3000000,SRH,2025
+282,Manoj Bhandage,India,Allrounder,SOLD,3000000,3000000,RCB,2025
+261,Harnoor Singh,India,Batter,SOLD,3000000,3000000,PBKS,2025
+319,Ramakrishna Ghosh,India,Allrounder,SOLD,3000000,3000000,CSK,2025
+374,Ajay Jadav Mandal,India,Allrounder,SOLD,3000000,3000000,DC,2025
+265,Ashwani Kumar,India,Bowler,SOLD,3000000,3000000,MI,2025
+194,Kumar Kartikeya,India,Bowler,SOLD,3000000,3000000,RR,2025
+387,Kunal Singh Rathore,India,WK-Batter,SOLD,3000000,3000000,RR,2025
+224,Shaik Rasheed,India,Batter,SOLD,3000000,3000000,CSK,2025
+376,Praveen Dubey,India,Allrounder,SOLD,3000000,3000000,PBKS,2025
+166,Nishant Sindhu,India,Allrounder,SOLD,3000000,3000000,GT,2025
+304,Prince Yadav,India,Bowler,SOLD,3000000,3000000,LSG,2025
+315,Kamlesh Nagarkoti,India,Allrounder,SOLD,3000000,3000000,CSK,2025
+298,Aniket Verma,India,Batter,SOLD,3000000,3000000,--,2025
+179,Anuj Rawat,India,WK-Batter,SOLD,3000000,3000000,GT,2025
+322,Satyanarayana Raju,India,Bowler,SOLD,3000000,3000000,MI,2025
+184,Aryan Juyal,India,WK-Batter,SOLD,3000000,3000000,LSG,2025
+239,Digvesh Singh,India,Bowler,SOLD,3000000,3000000,LSG,2025
+225,Himmat Singh,India,Batter,SOLD,3000000,3000000,LSG,2025
+193,Mayank Markande,India,Bowler,SOLD,3000000,3000000,KKR,2025
+314,Yuvraj Chaudhary,India,Allrounder,SOLD,3000000,3000000,LSG,2025
+362,RS Hangargekar,India,Allrounder,SOLD,3000000,3000000,LSG,2025
+391,Kulwant Khejroliya,India,Bowler,SOLD,3000000,3000000,GT,2025
+342,Luvnith Sisodia,India,WK-Batter,SOLD,3000000,3000000,KKR,2025
+397,Vignesh Puthur,India,Allrounder,SOLD,3000000,3000000,MI,2025
+394,Abhinandan Singh,India,Bowler,SOLD,3000000,3000000,RCB,2025
+284,Krishnan Shrijith,India,WK-Batter,SOLD,3000000,3000000,MI,2025
+233,Mukesh Choudhary,India,Bowler,SOLD,3000000,3000000,CSK,2025
+299,Raj Bawa,India,Allrounder,SOLD,3000000,3000000,MI,2025
+384,Tripurana Vijay,India,Allrounder,SOLD,3000000,3000000,DC,2025
+262,Yudhvir Singh Charak,India,Allrounder,SOLD,3000000,3500000,RR,2025
+385,Madhav Tiwari,India,Allrounder,SOLD,3000000,4000000,DC,2025
+351,Anukul Roy,India,Allrounder,SOLD,3000000,4000000,KKR,2025
+237,Zeeshan Ansari,India,Bowler,SOLD,3000000,4000000,SRH,2025
+163,Karun Nair,India,Batter,SOLD,3000000,5000000,DC,2025
+231,Swapnil Singh,India,Allrounder,RTM,3000000,5000000,RCB,2025
+283,Vipraj Nigam,India,Allrounder,SOLD,3000000,5000000,DC,2025
+352,Vansh Bedi,India,WK-Batter,SOLD,3000000,5500000,CSK,2025
+177,Kumar Kushagra,India,WK-Batter,SOLD,3000000,6500000,GT,2025
+178,Robin Minz,India,WK-Batter,SOLD,3000000,6500000,MI,2025
+238,Manimaran Siddharth,India,Bowler,SOLD,3000000,7500000,LSG,2025
+222,Shubham Dubey,India,Batter,SOLD,3000000,8000000,RR,2025
+167,Sameer Rizvi,India,Allrounder,SOLD,3000000,9500000,DC,2025
+181,Vishnu Vinod,India,WK-Batter,SOLD,3000000,9500000,PBKS,2025
+331,Vaibhav Suryavanshi,India,Batter,SOLD,3000000,11000000,RR,2025
+183,Akash Madhwal,India,Bowler,SOLD,3000000,12000000,RR,2025
+173,Vijay Shankar,India,Allrounder,SOLD,3000000,12000000,CSK,2025
+335,Eshan Malinga,Sri Lanka,Bowler,SOLD,3000000,12000000,SRH,2025
+232,Gurnoor Brar,India,Bowler,SOLD,3000000,13000000,GT,2025
+227,Arshad Khan,India,Allrounder,SOLD,3000000,13000000,GT,2025
+172,Harpreet Brar,India,Allrounder,SOLD,3000000,15000000,PBKS,2025
+190,Simarjeet Singh,India,Bowler,SOLD,3000000,15000000,SRH,2025
+188,Yash Thakur,India,Bowler,SOLD,3000000,16000000,PBKS,2025
+186,Vijaykumar Vyshak,India,Bowler,SOLD,3000000,18000000,PBKS,2025
+187,Vaibhav Arora,India,Bowler,SOLD,3000000,18000000,KKR,2025
+267,Gurjapneet Singh,India,Bowler,SOLD,3000000,22000000,CSK,2025
+191,Suyash Sharma,India,Bowler,SOLD,3000000,26000000,RCB,2025
+162,Angkrish Raghuvanshi,India,Batter,SOLD,3000000,30000000,KKR,2025
+165,Abhinav Manohar,India,Batter,SOLD,3000000,32000000,SRH,2025
+229,Anshul Kamboj,India,Allrounder,SOLD,3000000,34000000,CSK,2025
+281,Priyansh Arya,India,Allrounder,SOLD,3000000,38000000,PBKS,2025
+175,Ashutosh Sharma,India,Allrounder,SOLD,3000000,38000000,DC,2025
+171,Abdul Samad,India,Allrounder,SOLD,3000000,42000000,LSG,2025
+161,Nehal Wadhera,India,Batter,SOLD,3000000,42000000,PBKS,2025
+170,Naman Dhir,India,Allrounder,RTM,3000000,52500000,MI,2025
+182,Rasikh Dar Salam,India,Bowler,SOLD,3000000,60000000,RCB,2025
+75,Siddarth Kaul,India,Bowler,UNSOLD,4000000,0,,2025
+189,Kartik Tyagi,India,Bowler,UNSOLD,4000000,0,,2025
+343,Piyush Chawla,India,Bowler,UNSOLD,5000000,0,,2025
+373,Leus du Plooy,England,Batter,UNSOLD,5000000,0,,2025
+192,Karn Sharma,India,Bowler,SOLD,5000000,5000000,MI,2025
+174,Mahipal Lomror,India,Allrounder,SOLD,5000000,17000000,GT,2025
+185,Mohit Sharma,India,Bowler,SOLD,5000000,22000000,DC,2025
+324,Blessing Muzarabani,Zimbabwe,Bowler,UNSOLD,7500000,0,,2025
+278,Luke Wood,England,Bowler,UNSOLD,7500000,0,,2025
+200,Prithvi Shaw,India,Batter,UNSOLD,7500000,0,,2025
+357,Dewald Brevis,South Africa,Batter,UNSOLD,7500000,0,,2025
+218,Vijayakanth Viyaskanth,Sri Lanka,Bowler,UNSOLD,7500000,0,,2025
+57,Andrew Tye,Australia,Bowler,UNSOLD,7500000,0,,2025
+68,Nangeyalia Kharote,Afghanistan,Allrounder,UNSOLD,7500000,0,,2025
+88,Bhanuka Rajapaksa,Sri Lanka,Batter,UNSOLD,7500000,0,,2025
+221,Keshav Maharaj,South Africa,Bowler,UNSOLD,7500000,0,,2025
+276,Richard Gleeson,England,Bowler,UNSOLD,7500000,0,,2025
+252,Josh Philippe,Australia,WK-Batter,UNSOLD,7500000,0,,2025
+61,Patrick Kruger,South Africa,Allrounder,UNSOLD,7500000,0,,2025
+309,Dilshan Madushanka,Sri Lanka,Bowler,UNSOLD,7500000,0,,2025
+379,Sandeep Warrier,India,Bowler,UNSOLD,7500000,0,,2025
+270,Pathum Nissanka,Sri Lanka,Batter,UNSOLD,7500000,0,,2025
+50,Kusal Mendis,Sri Lanka,WK-Batter,UNSOLD,7500000,0,,2025
+289,Sarfaraz Khan,India,Allrounder,UNSOLD,7500000,0,,2025
+104,Dunith Wellalage,Sri Lanka,Allrounder,UNSOLD,7500000,0,,2025
+49,Ben McDermott,Australia,WK-Batter,UNSOLD,7500000,0,,2025
+260,Rishad Hossain,Bangladesh,Bowler,UNSOLD,7500000,0,,2025
+390,Shivam Mavi,India,Bowler,UNSOLD,7500000,0,,2025
+103,Dan Mousley,England,Allrounder,UNSOLD,7500000,0,,2025
+317,Olly Stone,England,Bowler,UNSOLD,7500000,0,,2025
+64,Nahid Rana,Bangladesh,Bowler,UNSOLD,7500000,0,,2025
+377,Matthew Short,Australia,Allrounder,UNSOLD,7500000,0,,2025
+323,Dwaine Pretorius,South Africa,Allrounder,UNSOLD,7500000,0,,2025
+51,Kusal Perera,Sri Lanka,WK-Batter,UNSOLD,7500000,0,,2025
+209,Srikar Bharat,India,WK-Batter,UNSOLD,7500000,0,,2025
+312,Chetan Sakariya,India,Bowler,UNSOLD,7500000,0,,2025
+101,Charith Asalanka,Sri Lanka,Allrounder,UNSOLD,7500000,0,,2025
+69,Junior Dala,South Africa,Allrounder,UNSOLD,7500000,0,,2025
+326,Roston Chase,West Indies,Allrounder,UNSOLD,7500000,0,,2025
+296,Navdeep Saini,India,Bowler,UNSOLD,7500000,0,,2025
+72,Wiaan Mulder,South Africa,Allrounder,UNSOLD,7500000,0,,2025
+86,Sediqullah Atal,Afghanistan,Batter,UNSOLD,7500000,0,,2025
+158,Waqar Salamkheil,Afghanistan,Bowler,UNSOLD,7500000,0,,2025
+54,Zahir Khan,Afghanistan,Bowler,UNSOLD,7500000,0,,2025
+89,Joshua Little,Ireland,Bowler,UNSOLD,7500000,0,,2025
+368,Brandon King,West Indies,Batter,UNSOLD,7500000,0,,2025
+79,Jeffrey Vandersay,Sri Lanka,Bowler,UNSOLD,7500000,0,,2025
+102,Gudakesh Motie,West Indies,Allrounder,UNSOLD,7500000,0,,2025
+58,Lahiru Kumara,Sri Lanka,Bowler,UNSOLD,7500000,0,,2025
+392,Ottneil Baartman,South Africa,Bowler,UNSOLD,7500000,0,,2025
+273,Jayant Yadav,India,Allrounder,SOLD,7500000,7500000,GT,2025
+389,Lizaad Williams,South Africa,Bowler,SOLD,7500000,7500000,MI,2025
+381,Karim Janat,Afghanistan,Allrounder,SOLD,7500000,7500000,GT,2025
+359,Umran Malik,India,Bowler,SOLD,7500000,7500000,KKR,2025
+291,Kamindu Mendis,Sri Lanka,Allrounder,SOLD,7500000,7500000,SRH,2025
+295,Shamar Joseph,West Indies,Bowler,RTM,7500000,7500000,LSG,2025
+243,Manish Pandey,India,Batter,SOLD,7500000,7500000,KKR,2025
+367,Matthew Breetzke,South Africa,Batter,SOLD,7500000,7500000,LSG,2025
+293,Dushmantha Chameera,Sri Lanka,Bowler,SOLD,7500000,7500000,DC,2025
+255,Ishant Sharma,India,Bowler,SOLD,7500000,7500000,GT,2025
+279,Reece Topley,England,Bowler,SOLD,7500000,7500000,MI,2025
+349,Donovan Ferreira,South Africa,WK-Batter,SOLD,7500000,7500000,DC,2025
+308,Xavier Bartlett,Australia,Bowler,SOLD,7500000,8000000,PBKS,2025
+277,Kuldeep Sen,India,Bowler,SOLD,7500000,8000000,PBKS,2025
+372,Kwena Maphaka,South Africa,Bowler,SOLD,7500000,15000000,RR,2025
+256,Nuwan Thushara,Sri Lanka,Bowler,SOLD,7500000,16000000,RCB,2025
+247,Deepak Hooda,India,Allrounder,SOLD,7500000,17000000,CSK,2025
+250,Ravisrinivasan Sai Kishore,India,Allrounder,RTM,7500000,20000000,GT,2025
+130,Rahul Tripathi,India,Batter,SOLD,7500000,34000000,CSK,2025
+217,Allah Ghazanfar,Afghanistan,Bowler,SOLD,7500000,48000000,MI,2025
+211,Alex Carey,Australia,WK-Batter,UNSOLD,10000000,0,,2025
+73,Mehidy Hasan Miraz,Bangladesh,Allrounder,UNSOLD,10000000,0,,2025
+44,Ashton Turner,Australia,Allrounder,UNSOLD,10000000,0,,2025
+74,Shakib Al Hasan,Bangladesh,Allrounder,UNSOLD,10000000,0,,2025
+328,Nathan Smith,New Zealand,Allrounder,UNSOLD,10000000,0,,2025
+345,Mayank Agarawal,India,Batter,UNSOLD,10000000,0,,2025
+93,Krishnappa Gowtham,India,Allrounder,UNSOLD,10000000,0,,2025
+77,Taskin Ahmed,Bangladesh,Bowler,UNSOLD,10000000,0,,2025
+96,Gulbadin Naib,Afghanistan,Allrounder,UNSOLD,10000000,0,,2025
+60,Wayne Parnell,South Africa,Allrounder,UNSOLD,10000000,0,,2025
+287,Brydon Carse,England,Allrounder,SOLD,10000000,10000000,SRH,2025
+207,Ryan Rickelton,South Africa,WK-Batter,SOLD,10000000,10000000,MI,2025
+258,Jaydev Unadkat,India,Bowler,SOLD,10000000,10000000,SRH,2025
+393,Lungi Ngidi,South Africa,Bowler,SOLD,10000000,10000000,RCB,2025
+246,Shahbaz Ahmed,India,Allrounder,SOLD,10000000,24000000,LSG,2025
+157,Rahul Chahar,India,Bowler,SOLD,10000000,32000000,SRH,2025
+212,Tushar Deshpande,India,Bowler,SOLD,10000000,65000000,RR,2025
+399,Akash Deep,India,Bowler,SOLD,10000000,80000000,LSG,2025
+148,Jitesh Sharma,India,WK-Batter,SOLD,10000000,110000000,RCB,2025
+48,Jordan Cox,England,WK-Batter,UNSOLD,12500000,0,,2025
+206,Shai Hope,West Indies,Batter,UNSOLD,12500000,0,,2025
+370,Sikandar Raza,Zimbabwe,Allrounder,UNSOLD,12500000,0,,2025
+63,Dominic Drakes,West Indies,Allrounder,UNSOLD,12500000,0,,2025
+78,Obed McCoy,West Indies,Bowler,UNSOLD,12500000,0,,2025
+316,Lance Morris,Australia,Bowler,UNSOLD,12500000,0,,2025
+53,Nandre Burger,South Africa,Bowler,UNSOLD,12500000,0,,2025
+59,Keemo Paul,West Indies,Allrounder,UNSOLD,12500000,0,,2025
+52,Tim Seifert,New Zealand,WK-Batter,UNSOLD,12500000,0,,2025
+62,Matthew Forde,West Indies,Bowler,UNSOLD,12500000,0,,2025
+66,James Anderson,England,Bowler,UNSOLD,12500000,0,,2025
+288,Aaron Hardie,Australia,Allrounder,SOLD,12500000,12500000,PBKS,2025
+294,Nathan Ellis,Australia,Bowler,SOLD,12500000,20000000,CSK,2025
+213,Gerald Coetzee,South Africa,Allrounder,SOLD,12500000,24000000,GT,2025
+286,Jacob Bethell,England,Allrounder,SOLD,12500000,26000000,RCB,2025
+202,Marco Jansen,South Africa,Allrounder,SOLD,12500000,70000000,PBKS,2025
+47,Sam Billings,England,WK-Batter,UNSOLD,15000000,0,,2025
+371,Tom Latham,New Zealand,WK-Batter,UNSOLD,15000000,0,,2025
+306,Michael Bracewell,New Zealand,Allrounder,UNSOLD,15000000,0,,2025
+71,Tim Southee,New Zealand,Bowler,UNSOLD,15000000,0,,2025
+95,Mohammad Nabi,Afghanistan,Allrounder,UNSOLD,15000000,0,,2025
+108,James Neesham,New Zealand,Allrounder,UNSOLD,15000000,0,,2025
+292,Jason Behrendorff,Australia,Bowler,UNSOLD,15000000,0,,2025
+70,John Turner,England,Bowler,UNSOLD,15000000,0,,2025
+219,Akeal Hosein,West Indies,Allrounder,UNSOLD,15000000,0,,2025
+329,Kyle Jamieson,New Zealand,Bowler,UNSOLD,15000000,0,,2025
+90,Jhye Richardson,Australia,Bowler,UNSOLD,15000000,0,,2025
+290,Kyle Mayers,West Indies,Allrounder,UNSOLD,15000000,0,,2025
+311,William ORourke,New Zealand,Bowler,UNSOLD,15000000,0,,2025
+109,Daniel Sams,Australia,Allrounder,UNSOLD,15000000,0,,2025
+199,Rovman Powell,West Indies,Allrounder,SOLD,15000000,15000000,KKR,2025
+307,Jamie Overton,England,Allrounder,SOLD,15000000,15000000,CSK,2025
+347,Ajinkya Rahane,India,Batter,SOLD,15000000,15000000,KKR,2025
+251,Romario Shepherd,West Indies,Allrounder,SOLD,15000000,15000000,RCB,2025
+249,Azmatullah Omarzai,Afghanistan,Allrounder,SOLD,15000000,24000000,PBKS,2025
+244,Sherfane Rutherford,West Indies,Allrounder,SOLD,15000000,26000000,GT,2025
+133,Rachin Ravindra,New Zealand,Allrounder,RTM,15000000,40000000,CSK,2025
+208,Nitish Rana,India,Allrounder,SOLD,15000000,42000000,RR,2025
+124,David Miller,South Africa,Batter,SOLD,15000000,75000000,LSG,2025
+111,Matt Henry,New Zealand,Bowler,UNSOLD,20000000,0,,2025
+257,Naveen-ul-Haq,Afghanistan,Bowler,UNSOLD,20000000,0,,2025
+116,Sean Abbott,Australia,Allrounder,UNSOLD,20000000,0,,2025
+87,Evin Lewis,West Indies,Batter,UNSOLD,20000000,0,,2025
+46,Tom Banton,England,WK-Batter,UNSOLD,20000000,0,,2025
+198,Kane Williamson,New Zealand,Batter,UNSOLD,20000000,0,,2025
+118,Tabraiz Shamsi,South Africa,Bowler,UNSOLD,20000000,0,,2025
+65,Tymal Mills,England,Bowler,UNSOLD,20000000,0,,2025
+259,Umesh Yadav,India,Bowler,UNSOLD,20000000,0,,2025
+45,James Vince,England,Batter,UNSOLD,20000000,0,,2025
+348,Shardul Thakur,India,Allrounder,UNSOLD,20000000,0,,2025
+330,Chris Jordan,England,Bowler,UNSOLD,20000000,0,,2025
+216,Mujeeb Ur Rahman,Afghanistan,Bowler,UNSOLD,20000000,0,,2025
+107,Jason Holder,West Indies,Allrounder,UNSOLD,20000000,0,,2025
+275,Alzarri Joseph,West Indies,Bowler,UNSOLD,20000000,0,,2025
+369,Gus Atkinson,England,Allrounder,UNSOLD,20000000,0,,2025
+254,Mustafizur Rahman,Bangladesh,Bowler,UNSOLD,20000000,0,,2025
+271,Steven Smith,Australia,Batter,UNSOLD,20000000,0,,2025
+220,Adil Rashid,England,Bowler,UNSOLD,20000000,0,,2025
+242,Ben Duckett,England,Batter,UNSOLD,20000000,0,,2025
+144,Jonny Bairstow,England,WK-Batter,UNSOLD,20000000,0,,2025
+92,Tom Curran,England,Allrounder,UNSOLD,20000000,0,,2025
+203,Daryl Mitchell,New Zealand,Allrounder,UNSOLD,20000000,0,,2025
+310,Adam Milne,New Zealand,Bowler,UNSOLD,20000000,0,,2025
+340,David Warner,Australia,Batter,UNSOLD,20000000,0,,2025
+241,Finn Allen,New Zealand,Batter,UNSOLD,20000000,0,,2025
+146,Rahmanullah Gurbaz,Afghanistan,WK-Batter,SOLD,20000000,20000000,KKR,2025
+272,Mitchell Santner,New Zealand,Allrounder,SOLD,20000000,20000000,MI,2025
+401,Faf du Plessis,South Africa,Batter,SOLD,20000000,20000000,DC,2025
+358,Moeen Ali,England,Allrounder,SOLD,20000000,20000000,KKR,2025
+339,Devdutt Padikkal,India,Batter,SOLD,20000000,20000000,RCB,2025
+346,Glenn Phillips,New Zealand,Batter,SOLD,20000000,20000000,GT,2025
+215,Lockie Ferguson,New Zealand,Bowler,SOLD,20000000,20000000,PBKS,2025
+128,Aiden Markram,South Africa,Batter,SOLD,20000000,20000000,LSG,2025
+274,Fazalhaq Farooqi,Afghanistan,Bowler,SOLD,20000000,20000000,RR,2025
+201,Sam Curran,England,Allrounder,SOLD,20000000,24000000,CSK,2025
+159,Adam Zampa,Australia,Bowler,SOLD,20000000,24000000,SRH,2025
+210,Josh Inglis,Australia,WK-Batter,SOLD,20000000,26000000,PBKS,2025
+253,Spencer Johnson,Australia,Bowler,SOLD,20000000,28000000,KKR,2025
+245,Tim David,Australia,Allrounder,SOLD,20000000,30000000,RCB,2025
+205,Washington Sundar,India,Allrounder,SOLD,20000000,32000000,GT,2025
+139,Mitchell Marsh,Australia,Allrounder,SOLD,20000000,34000000,LSG,2025
+143,Quinton de Kock,South Africa,WK-Batter,SOLD,20000000,36000000,KKR,2025
+140,Glenn Maxwell,Australia,Allrounder,SOLD,20000000,42000000,PBKS,2025
+156,Maheesh Theekshana,Sri Lanka,Bowler,SOLD,20000000,44000000,RR,2025
+154,Khaleel Ahmed,India,Bowler,SOLD,20000000,48000000,CSK,2025
+197,Wanindu Hasaranga,Sri Lanka,Bowler,SOLD,20000000,52500000,RR,2025
+248,Will Jacks,England,Allrounder,SOLD,20000000,52500000,MI,2025
+204,Krunal Pandya,India,Allrounder,SOLD,20000000,57500000,RCB,2025
+127,Harry Brook,England,Batter,SOLD,20000000,62500000,DC,2025
+129,Devon Conway,New Zealand,Batter,SOLD,20000000,62500000,CSK,2025
+152,Anrich Nortje,South Africa,Bowler,SOLD,20000000,65000000,KKR,2025
+132,Harshal Patel,India,Allrounder,SOLD,20000000,80000000,SRH,2025
+214,Mukesh Kumar,India,Bowler,RTM,20000000,80000000,DC,2025
+134,Liam Livingstone,England,Allrounder,SOLD,20000000,87500000,RCB,2025
+131,Jake Fraser-McGurk,Australia,Batter,RTM,20000000,90000000,DC,2025
+400,Deepak Chahar,India,Bowler,SOLD,20000000,92500000,MI,2025
+150,Prasidh Krishna,India,Bowler,SOLD,20000000,95000000,GT,2025
+151,Avesh Khan,India,Bowler,SOLD,20000000,97500000,LSG,2025
+169,Ravichandran Ashwin,India,Allrounder,SOLD,20000000,97500000,CSK,2025
+196,Noor Ahmad,Afghanistan,Bowler,SOLD,20000000,100000000,CSK,2025
+135,Mohammed Shami,India,Bowler,SOLD,20000000,100000000,SRH,2025
+155,T Natarajan,India,Bowler,SOLD,20000000,107500000,DC,2025
+123,Kagiso Rabada,South Africa,Bowler,SOLD,20000000,107500000,GT,2025
+402,Bhuvneshwar Kumar,India,Bowler,SOLD,20000000,107500000,RCB,2025
+138,Marcus Stoinis,Australia,Allrounder,SOLD,20000000,110000000,PBKS,2025
+147,Ishan Kishan,India,WK-Batter,SOLD,20000000,112500000,SRH,2025
+145,Philip Salt,England,WK-Batter,SOLD,20000000,115000000,RCB,2025
+122,Mitchell Starc,Australia,Bowler,SOLD,20000000,117500000,DC,2025
+136,Mohammed Siraj,India,Bowler,SOLD,20000000,122500000,GT,2025
+153,Jofra Archer,England,Bowler,SOLD,20000000,125000000,RR,2025
+149,Josh Hazlewood,Australia,Bowler,SOLD,20000000,125000000,RCB,2025
+168,Trent Boult,New Zealand,Bowler,SOLD,20000000,125000000,MI,2025
+126,KL Rahul,India,WK-Batter,SOLD,20000000,140000000,DC,2025
+121,Jos Buttler,England,WK-Batter,SOLD,20000000,157500000,GT,2025
+125,Yuzvendra Chahal,India,Bowler,SOLD,20000000,180000000,PBKS,2025
+120,Arshdeep Singh,India,Bowler,RTM,20000000,180000000,PBKS,2025
+137,Venkatesh Iyer,India,Allrounder,SOLD,20000000,237500000,KKR,2025
+141,Shreyas Iyer,India,Batter,SOLD,20000000,267500000,PBKS,2025
+142,Rishabh Pant,India,WK-Batter,SOLD,20000000,270000000,LSG,2025

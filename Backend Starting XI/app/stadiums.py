@@ -1,0 +1,277 @@
+"""
+Stadium → pitch-type metadata + smart lookup.
+"""
+
+import pandas as pd
+from difflib import get_close_matches
+
+
+def build_stadium_df() -> pd.DataFrame:
+    stadium_data = [
+        {
+            "stadium_name": "Narendra Modi Stadium, Ahmedabad",
+            "city": "Ahmedabad",
+            "country": "India",
+            "pitch_type": "batting",
+            "notes": "Large ground with true bounce; high scoring, spinners later in the game.",
+        },
+        {
+            "stadium_name": "M. Chinnaswamy Stadium, Bengaluru",
+            "city": "Bengaluru",
+            "country": "India",
+            "pitch_type": "batting",
+            "notes": "Small boundaries, flat deck; very high scoring.",
+        },
+        {
+            "stadium_name": "M. A. Chidambaram Stadium, Chennai",
+            "city": "Chennai",
+            "country": "India",
+            "pitch_type": "bowling",
+            "notes": "Slow, dry surface; spin-friendly and tough to score quickly.",
+        },
+        {
+            "stadium_name": "Arun Jaitley Stadium, Delhi",
+            "city": "Delhi",
+            "country": "India",
+            "pitch_type": "balanced",
+            "notes": "Mixed surface; can be slightly slow but allows decent scores.",
+        },
+        {
+            "stadium_name": "Himachal Pradesh Cricket Association Stadium, Dharamshala",
+            "city": "Dharamshala",
+            "country": "India",
+            "pitch_type": "batting",
+            "notes": "High-altitude venue with good carry; encourages stroke-play.",
+        },
+        {
+            "stadium_name": "Barsapara Cricket Stadium (ACA Stadium), Guwahati",
+            "city": "Guwahati",
+            "country": "India",
+            "pitch_type": "batting",
+            "notes": "Generally flat pitch; high-scoring T20 games.",
+        },
+        {
+            "stadium_name": "Rajiv Gandhi International Stadium, Hyderabad",
+            "city": "Hyderabad",
+            "country": "India",
+            "pitch_type": "balanced",
+            "notes": "Traditionally slightly slow; both spin and pace relevant.",
+        },
+        {
+            "stadium_name": "Sawai Mansingh Stadium, Jaipur",
+            "city": "Jaipur",
+            "country": "India",
+            "pitch_type": "balanced",
+            "notes": "Slowish surface; not a pure belter.",
+        },
+        {
+            "stadium_name": "Eden Gardens, Kolkata",
+            "city": "Kolkata",
+            "country": "India",
+            "pitch_type": "batting",
+            "notes": "True bounce & fast outfield; big scores but spin can still play a role.",
+        },
+        {
+            "stadium_name": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+            "city": "Lucknow",
+            "country": "India",
+            "pitch_type": "bowling",
+            "notes": "Low-scoring, slow; helps spinners and makes stroke-play hard.",
+        },
+        {
+            "stadium_name": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur (New Chandigarh)",
+            "city": "Mullanpur",
+            "country": "India",
+            "pitch_type": "balanced",
+            "notes": "New venue; early signs of slightly tricky bowling-friendly surface.",
+        },
+        {
+            "stadium_name": "Wankhede Stadium, Mumbai",
+            "city": "Mumbai",
+            "country": "India",
+            "pitch_type": "batting",
+            "notes": "Good bounce, shortish boundaries; classic batting paradise with dew factor.",
+        },
+        {
+            "stadium_name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+            "city": "Visakhapatnam",
+            "country": "India",
+            "pitch_type": "balanced",
+            "notes": "Balanced pitch; some help for spin later.",
+        },
+        {
+            "stadium_name": "Maharashtra Cricket Association Stadium, Pune",
+            "city": "Pune",
+            "country": "India",
+            "pitch_type": "balanced",
+            "notes": "Reasonable bounce; both batters and pacers in the game.",
+        },
+        {
+            "stadium_name": "Holkar Cricket Stadium, Indore",
+            "city": "Indore",
+            "country": "India",
+            "pitch_type": "batting",
+            "notes": "Very small ground and flat wicket; usually a run-fest.",
+        },
+        {
+            "stadium_name": "JSCA International Stadium Complex, Ranchi",
+            "city": "Ranchi",
+            "country": "India",
+            "pitch_type": "bowling",
+            "notes": "Can be on the slower side; helps spinners and change of pace.",
+        },
+        {
+            "stadium_name": "Shaheed Veer Narayan Singh International Cricket Stadium, Raipur",
+            "city": "Raipur",
+            "country": "India",
+            "pitch_type": "bowling",
+            "notes": "Generally sluggish wicket; shot-making not very easy.",
+        },
+        {
+            "stadium_name": "Brabourne Stadium, Mumbai",
+            "city": "Mumbai",
+            "country": "India",
+            "pitch_type": "batting",
+            "notes": "True bounce and quick outfield; good batting track.",
+        },
+        {
+            "stadium_name": "Green Park Stadium, Kanpur",
+            "city": "Kanpur",
+            "country": "India",
+            "pitch_type": "bowling",
+            "notes": "Old-style Indian pitch; slow and aids spin.",
+        },
+        {
+            "stadium_name": "Saurashtra Cricket Association Stadium (Niranjan Shah Stadium), Rajkot",
+            "city": "Rajkot",
+            "country": "India",
+            "pitch_type": "batting",
+            "notes": "Flat pitch, fast outfield; massive totals possible.",
+        },
+        {
+            "stadium_name": "Dr DY Patil Sports Academy, Navi Mumbai",
+            "city": "Navi Mumbai",
+            "country": "India",
+            "pitch_type": "batting",
+            "notes": "Good pace and carry; excellent for stroke makers.",
+        },
+        {
+            "stadium_name": "Sharjah Cricket Association Stadium, Sharjah (UAE)",
+            "city": "Sharjah",
+            "country": "UAE",
+            "pitch_type": "batting",
+            "notes": "Short boundaries; high-scoring when pitch is fresh.",
+        },
+        {
+            "stadium_name": "Dubai International Cricket Stadium, Dubai (UAE)",
+            "city": "Dubai",
+            "country": "UAE",
+            "pitch_type": "balanced",
+            "notes": "Balanced surface; can be two-paced at times.",
+        },
+        {
+            "stadium_name": "Sheikh Zayed Cricket Stadium, Abu Dhabi (UAE)",
+            "city": "Abu Dhabi",
+            "country": "UAE",
+            "pitch_type": "balanced",
+            "notes": "Often slightly slow; both spin and pace in play.",
+        },
+        {
+            "stadium_name": "Kingsmead, Durban (South Africa)",
+            "city": "Durban",
+            "country": "South Africa",
+            "pitch_type": "balanced",
+            "notes": "Seam and bounce; not always super high-scoring.",
+        },
+        {
+            "stadium_name": "New Wanderers Stadium, Johannesburg (South Africa)",
+            "city": "Johannesburg",
+            "country": "South Africa",
+            "pitch_type": "batting",
+            "notes": "High-altitude, good bounce; big totals common.",
+        },
+        {
+            "stadium_name": "SuperSport Park, Centurion (South Africa)",
+            "city": "Centurion",
+            "country": "South Africa",
+            "pitch_type": "balanced",
+            "notes": "Good carry; bowlers and batters both have a say.",
+        },
+        {
+            "stadium_name": "Newlands Cricket Ground, Cape Town (South Africa)",
+            "city": "Cape Town",
+            "country": "South Africa",
+            "pitch_type": "balanced",
+            "notes": "Assists seam early and spin later; moderate totals.",
+        },
+        {
+            "stadium_name": "Sahara Oval St George's, Port Elizabeth (South Africa)",
+            "city": "Port Elizabeth",
+            "country": "South Africa",
+            "pitch_type": "bowling",
+            "notes": "Can be slow and assist spin; not a typical belter.",
+        },
+        {
+            "stadium_name": "Kingsmead (alt), East London (South Africa)",
+            "city": "East London",
+            "country": "South Africa",
+            "pitch_type": "balanced",
+            "notes": "Average scoring venue; fair for bat and ball.",
+        },
+        {
+            "stadium_name": "Mangaung Oval, Bloemfontein (South Africa)",
+            "city": "Bloemfontein",
+            "country": "South Africa",
+            "pitch_type": "batting",
+            "notes": "Good batting wicket; historically big ODI scores.",
+        },
+        {
+            "stadium_name": "Pietermaritzburg Oval, Pietermaritzburg (South Africa)",
+            "city": "Pietermaritzburg",
+            "country": "South Africa",
+            "pitch_type": "balanced",
+            "notes": "Less frequently used; generally fair surface.",
+        },
+        {
+            "stadium_name": "Jawaharlal Nehru Stadium, Kochi",
+            "city": "Kochi",
+            "country": "India",
+            "pitch_type": "balanced",
+            "notes": "Used briefly in IPL; slightly slower surfaces.",
+        },
+        {
+            "stadium_name": "Vidarbha Cricket Association Stadium, Nagpur",
+            "city": "Nagpur",
+            "country": "India",
+            "pitch_type": "bowling",
+            "notes": "Often dry and spin-friendly; tough for aggressive hitting.",
+        },
+    ]
+    return pd.DataFrame(stadium_data)
+
+
+STADIUM_DF = build_stadium_df()
+
+
+def get_pitch_info_smart(query: str, cutoff: float = 0.4):
+    """
+    Smart fuzzy + substring stadium lookup.
+    Accepts things like 'chepauk', 'Narendra Modi', 'wankhede', etc.
+    """
+    q = query.lower().strip()
+    names = STADIUM_DF["stadium_name"].tolist()
+
+    # 1) Substring match
+    partial_hits = [name for name in names if q in name.lower()]
+    if partial_hits:
+        row = STADIUM_DF[STADIUM_DF["stadium_name"] == partial_hits[0]].iloc[0]
+        return row.to_dict()
+
+    # 2) Fuzzy match
+    matches = get_close_matches(q, names, n=1, cutoff=cutoff)
+    if matches:
+        row = STADIUM_DF[STADIUM_DF["stadium_name"] == matches[0]].iloc[0]
+        return row.to_dict()
+
+    # 3) No match
+    return None
